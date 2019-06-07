@@ -1,0 +1,14 @@
+{
+  "name": "gatsby-source-notion",
+  "version": "1.0.0",
+  "main": "gatsby-node.js",
+  "repository": "https://github.com/khw1031/gatsby-source-notion.so.git",
+  "author": "Hyunwoo Kim <khw1031@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "rollup": "^1.14.3"
+  }
+}
